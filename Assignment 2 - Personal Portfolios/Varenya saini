@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="task.css">
+    </head>
+    <body>
+        <section>
+            <div class="animate">
+
+                <h1>Varenya Saini<br><br>  Web developer from Ahmedabad <br>Currently studying at VIT-Vellore CSE core branch</h1>
+            </div>
+          </section>
+          <section>
+            <div class="container reveal">
+              <h2>SKILLS</h2>
+              <div class="text-container">
+                <div class="text-box">
+                  <h3>Web developer</h3>
+                  <p>
+                    Well versed in HTML,CSS and JavaScript.
+                  </p>
+                </div>
+                <div class="text-box">
+                  <h3>Competitive coding</h3>
+                  <p>
+                    I do Competitive coding in Python
+                  </p>
+                </div>
+                <div class="text-box">
+                  <h3>Artist</h3>
+                  <p>
+                    Created numerous canvas and pencil sketches.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </section>
+          
+          <section>
+            <div class="container reveal">
+              <h2>Languages</h2>
+              <div class="text-container">
+                <div class="text-box">
+                  <h3>Python</h3>
+                  <p>
+                    Intermediate level
+                  </p>
+                </div>
+                <div class="text-box">
+                  <h3>C/C++</h3>
+                  <p>
+                    Beginner level
+                  </p>
+                </div>
+                <div class="text-box">
+                  <h3>Javascript </h3>
+                  <p>
+                    Intermediate level
+                  </p>
+                </div>
+              </div>
+            </div>
+          </section>
+          
+          <section>
+            <div class="container reveal">
+              <h2>Projects</h2>
+              <div class="text-container">
+                <div class="text-box">
+                  <h3>Finance website</h3>
+                  <p>
+                    Created a website to track day to day expenses.
+                  </p>
+                  <br>
+                  <a href="https://github.com/Varenya7/My-Finance-Website">Click here to explore more about my project</a>
+                </div>
+                <div class="text-box">
+                  <h3>Portfolio website</h3>
+                  <p>
+                    My portfolio website 
+                  </p>
+                  <br>
+                  <a href="https://github.com/Varenya7/Web-Development-Tasks/tree/main/Varenya%20Saini">Click here to explore more about my project</a>
+                </div>
+                <div class="text-box">
+                  <h3>Ping-pong game</h3>
+                  <p>
+                    Game made using javascist.
+                  </p>
+                  <br>
+                  <a href="https://editor.p5js.org/">Click here to explore more about my project</a>
+          
+                </div>
+              </div>
+            </div>
+          </section>
+          <div class="container">
+            <div class="row">
+                <h1>contact me</h1>
+            </div>
+            <div class="row">
+                <h4 style="text-align:center">varenya.saini2021@vitstudent.ac.in <br>contact no : 2384443442</h4>
+            </div>
+            <div class="row input-container">
+                <div class="col-xs-12">
+                  <div class="styled-input wide">
+                    <input type="text" required />
+                    <label>Name</label> 
+                  </div>
+                </div>
+                <div class="col-md-6 col-sm-12">
+                  <div class="styled-input">
+                    <input type="text" required />
+                    <label>Email</label> 
+                  </div>
+                </div>
+                <div class="col-md-6 col-sm-12">
+                  <div class="styled-input" style="float:right;">
+                    <input type="text" required />
+                    <label>Phone Number</label> 
+                  </div>
+                </div>
+                <div class="col-xs-12">
+                  <div class="styled-input wide">
+                    <textarea required></textarea>
+                    <label>Message</label>
+                  </div>
+                </div>
+                <div class="col-xs-12">
+                  <div class="btn-lrg submit-btn">Send Message</div>
+                </div>
+            </div>
+          </div>
+          
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        
+        <script src="task.js" async defer></script>
+    </body>
+</html>
